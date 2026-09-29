@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "PAYER-POL-01",
+    "title": "Health Plan Clean Provider Delegation Standard",
+    "category": "Payer Policy",
+    "source": "Network Participation Standards 2024",
+    "content": "Providers with active unencumbered state licenses, board certification, and zero sanction matches across OIG/SAM/NPDB qualify for clean stream processing and auto-approval recommendation."
+  },
+  {
+    "chunk_id": "PAYER-POL-02",
+    "title": "Health Plan Exception Escalation Policy",
+    "category": "Payer Policy",
+    "source": "Credentialing Committee SOP Section 4",
+    "content": "Providers with past expired licenses (resolved), minor administrative board inquiries, or single malpractice claims without adverse findings are routed to Committee Review as Exception cases."
+  },
+  {
+    "chunk_id": "PAYER-POL-03",
+    "title": "Health Plan Hold and Denial Protocol",
+    "category": "Payer Policy",
+    "source": "Compliance Operating Procedure 9",
+    "content": "Providers with active federal sanctions (OIG LEIE exclusion, SAM debarment) or active state license suspensions MUST be placed on Hold and recommended for Network Denial."
+  }
+]

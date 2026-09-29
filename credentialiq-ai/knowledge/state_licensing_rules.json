@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "STATE-CA-01",
+    "title": "California Medical Board Primary Source Rule",
+    "category": "State Law",
+    "source": "CA Business and Professions Code Sec 2080",
+    "content": "Physicians practicing in California must maintain an active, unexpired license issued by the Medical Board of California. Expired or suspended licenses prohibit clinical practice."
+  },
+  {
+    "chunk_id": "STATE-NY-01",
+    "title": "New York Office of Professional Medical Conduct",
+    "category": "State Law",
+    "source": "NY Education Law Title VIII",
+    "content": "Any formal disciplinary charges or consent agreements filed by NY OPMC require full credentialing committee review before network participation authorization."
+  },
+  {
+    "chunk_id": "STATE-TX-01",
+    "title": "Texas Medical Board Encumbrance Policy",
+    "category": "State Law",
+    "source": "TX Occupations Code Chapter 164",
+    "content": "Agreed orders, probation, or practice restrictions imposed by Texas Medical Board constitute exceptions that demand risk assessment and peer review prior to committee signoff."
+  }
+]

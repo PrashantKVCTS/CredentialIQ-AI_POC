@@ -1,0 +1,24 @@
+{
+  "provider": {
+    "npi": "3333333333",
+    "first_name": "Victor",
+    "last_name": "VonDoom",
+    "date_of_birth": "1968-03-01",
+    "ssn": "999-00-9999",
+    "taxonomy_code": "208600000X",
+    "specialty": "Surgery",
+    "medical_school": "State University Medical Center",
+    "graduation_year": 1994,
+    "board_certified": true,
+    "board_name": "American Board of Surgery",
+    "licenses": [
+      {
+        "license_number": "FL33333",
+        "state": "FL",
+        "license_type": "MD",
+        "expiration_date": "2025-05-20"
+      }
+    ]
+  },
+  "notes": "Hold provider intake case with active state suspension and federal OIG exclusion."
+}

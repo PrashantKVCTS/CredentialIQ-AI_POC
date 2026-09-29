@@ -1,0 +1,30 @@
+{
+  "provider": {
+    "npi": "1234567890",
+    "first_name": "Eleanor",
+    "last_name": "Vance",
+    "date_of_birth": "1980-05-14",
+    "ssn": "999-00-1234",
+    "taxonomy_code": "207Q00000X",
+    "specialty": "Family Medicine",
+    "medical_school": "Stanford University School of Medicine",
+    "graduation_year": 2006,
+    "board_certified": true,
+    "board_name": "American Board of Family Medicine",
+    "licenses": [
+      {
+        "license_number": "C123456",
+        "state": "CA",
+        "license_type": "MD",
+        "expiration_date": "2027-12-31"
+      },
+      {
+        "license_number": "NY987654",
+        "state": "NY",
+        "license_type": "MD",
+        "expiration_date": "2026-10-31"
+      }
+    ]
+  },
+  "notes": "Clean provider intake case for routine network onboarding."
+}

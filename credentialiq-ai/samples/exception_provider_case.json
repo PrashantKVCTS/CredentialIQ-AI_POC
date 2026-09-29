@@ -1,0 +1,30 @@
+{
+  "provider": {
+    "npi": "2222222222",
+    "first_name": "Marcus",
+    "last_name": "Brody",
+    "date_of_birth": "1975-11-22",
+    "ssn": "999-00-5678",
+    "taxonomy_code": "207R00000X",
+    "specialty": "Internal Medicine",
+    "medical_school": "Columbia University Vagelos College of Physicians and Surgeons",
+    "graduation_year": 2001,
+    "board_certified": false,
+    "board_name": null,
+    "licenses": [
+      {
+        "license_number": "CA22222",
+        "state": "CA",
+        "license_type": "MD",
+        "expiration_date": "2025-08-15"
+      },
+      {
+        "license_number": "TX55555",
+        "state": "TX",
+        "license_type": "MD",
+        "expiration_date": "2023-01-01"
+      }
+    ]
+  },
+  "notes": "Exception provider intake case with past expired license and minor administrative warning."
+}

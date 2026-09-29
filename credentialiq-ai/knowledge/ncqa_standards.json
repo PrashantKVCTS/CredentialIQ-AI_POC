@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "NCQA-CR-01",
+    "title": "NCQA License Verification Standard",
+    "category": "NCQA",
+    "source": "NCQA Credentialing Guidelines 2024 CR1",
+    "content": "Organizations must verify primary-source state medical license status for all practicing physicians prior to credentialing decision. Licenses must be active and unencumbered without current suspensions or revocations."
+  },
+  {
+    "chunk_id": "NCQA-CR-02",
+    "title": "NCQA Sanction & Debarment Screening",
+    "category": "NCQA",
+    "source": "NCQA Credentialing Guidelines 2024 CR3",
+    "content": "Organizations must screen providers against federal sanction databases including OIG LEIE and SAM.gov. Any active exclusion or debarment requires immediate hold or denial recommendation and committee escalation."
+  },
+  {
+    "chunk_id": "NCQA-CR-03",
+    "title": "NCQA Malpractice and Disciplinary Review",
+    "category": "NCQA",
+    "source": "NCQA Credentialing Guidelines 2024 CR5",
+    "content": "Disciplinary actions recorded by state medical boards or NPDB must be evaluated for clinical relevance, severity, and recency. Any active license encumbrance prevents automatic approval."
+  }
+]
