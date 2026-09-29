@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "SOP-POL-001",
+    "Content": "Internal Procedure SOP-404: Applications missing mandatory NPI, state, or license details must be placed on Hold status until provider submits missing evidence.",
+    "SourceType": "CommitteeSOP",
+    "Jurisdiction": "National",
+    "ProviderType": "All",
+    "RuleReference": "SOP-MISSING-INFO",
+    "EffectiveDate": "2026-01-01T00:00:00Z",
+    "IsSynthetic": true
+  }
+]

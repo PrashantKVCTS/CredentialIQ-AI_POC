@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "CredentialIQ Python: Setup & Test",
+      "type": "shell",
+      "command": "./scripts/setup_python.sh",
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "CredentialIQ Python: Run API",
+      "type": "shell",
+      "command": "./scripts/run_python.sh",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "CredentialIQ Python: Run Smoke Tests",
+      "type": "shell",
+      "command": "./scripts/smoke_test_python.sh",
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+.env
+.idea/
+*.user
+*.suo
+appsettings.Production.json
+appsettings.Local.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+

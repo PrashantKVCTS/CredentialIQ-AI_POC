@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "NCQA-POL-001",
+    "Content": "NCQA Standard CR1: Primary source verification of medical state license is required prior to credentialing decision. The license must be current, unencumbered, and active.",
+    "SourceType": "NCQA",
+    "Jurisdiction": "National",
+    "ProviderType": "All",
+    "RuleReference": "NCQA-CR1-LIC",
+    "EffectiveDate": "2026-01-01T00:00:00Z",
+    "IsSynthetic": true
+  },
+  {
+    "Id": "NCQA-POL-002",
+    "Content": "NCQA Standard CR3: Practitioner sanction and restriction screening must be performed against federal (OIG LEIE, SAM.gov) and state database sources. Match requires credentialing committee review.",
+    "SourceType": "NCQA",
+    "Jurisdiction": "National",
+    "ProviderType": "All",
+    "RuleReference": "NCQA-CR3-SANC",
+    "EffectiveDate": "2026-01-01T00:00:00Z",
+    "IsSynthetic": true
+  }
+]

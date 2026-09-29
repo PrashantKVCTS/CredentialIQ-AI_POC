@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "STATE-POL-001",
+    "Content": "State Board Regulation: An expired license precludes practicing medicine or patient consultation in the state. Practitioners with an expired license require administrative grace period verification or committee exception.",
+    "SourceType": "StateLaw",
+    "Jurisdiction": "CA",
+    "ProviderType": "MD",
+    "RuleReference": "CA-BPC-2052",
+    "EffectiveDate": "2026-01-01T00:00:00Z",
+    "IsSynthetic": true
+  },
+  {
+    "Id": "STATE-POL-002",
+    "Content": "State Board Regulation: A suspended or revoked license results in immediate hold of credentialing application and mandatory reporting to the peer review board.",
+    "SourceType": "StateLaw",
+    "Jurisdiction": "National",
+    "ProviderType": "All",
+    "RuleReference": "ST-SUSP-99",
+    "EffectiveDate": "2026-01-01T00:00:00Z",
+    "IsSynthetic": true
+  }
+]

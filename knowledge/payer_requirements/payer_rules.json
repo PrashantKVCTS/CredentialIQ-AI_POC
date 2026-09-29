@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "PAYER-POL-001",
+    "Content": "Payer Rule: Clean credentialing application with active license, valid NPI, and zero federal/state sanction matches qualifies for expedited automated approval recommendation.",
+    "SourceType": "PayerRule",
+    "Jurisdiction": "National",
+    "ProviderType": "All",
+    "RuleReference": "PAYER-EXP-01",
+    "EffectiveDate": "2026-01-01T00:00:00Z",
+    "IsSynthetic": true
+  }
+]

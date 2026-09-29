@@ -1,0 +1,12 @@
+{
+  "npi": "5556667778",
+  "firstName": "Arthur",
+  "lastName": "Pendelton",
+  "providerType": "Nurse Practitioner",
+  "primaryState": "NY",
+  "licenseNumber": "SUSP-112233",
+  "dateOfBirth": "1982-03-10T00:00:00Z",
+  "email": "a.pendelton@example.org",
+  "phone": "555-018-3344",
+  "address": "50 Enterprise Blvd, New York, NY 10001"
+}

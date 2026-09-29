@@ -1,0 +1,12 @@
+{
+  "npi": "9876543210",
+  "firstName": "Robert",
+  "lastName": "Smith",
+  "providerType": "Medical Doctor",
+  "primaryState": "CA",
+  "licenseNumber": "EXP-998877",
+  "dateOfBirth": "1975-11-20T00:00:00Z",
+  "email": "dr.robert.smith@example.org",
+  "phone": "555-014-9922",
+  "address": "200 Health Plaza, San Francisco, CA 94102"
+}

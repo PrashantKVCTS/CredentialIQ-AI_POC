@@ -1,0 +1,12 @@
+{
+  "npi": "1234567890",
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "providerType": "Medical Doctor",
+  "primaryState": "CA",
+  "licenseNumber": "C12345",
+  "dateOfBirth": "1980-05-15T00:00:00Z",
+  "email": "dr.jane.doe@example.org",
+  "phone": "555-019-2831",
+  "address": "100 Medical Center Way, Suite 400, Los Angeles, CA 90001"
+}
